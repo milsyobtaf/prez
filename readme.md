@@ -5,6 +5,9 @@ Below you can find PDF versions of the talks I have given over the past few year
 #### [DrupalCon Nashville](/2018/DrupalConNashville)
 * The Digital Speakeasy: Secure and Anonymous Access to Your Website
 
+#### [Texas Camp](/2018/TexasCamp)
+* Become a Better Developer With Debugging
+
 #### [NERDSummit](/2018/NERDSummit)
 * Opening the Black Box: Becoming a Better Developer Through Debugging
 
