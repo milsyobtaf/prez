@@ -2,11 +2,17 @@
 
 Below you can find PDF versions of the talks I have given over the past few years. There are two versions of each, one plain and one with speaker notes. If you'd like an easier viewing experience, they are also available at [SpeakerDeck](https://speakerdeck.com/milsyobtaf).
 
+## 2021
+
+### [WebOps](/2021/WebOps)
+
+- Design Systems Aren't Hard. But they are complex. And also hard.
+
 ## 2020
 
 ### [OpenJS](/2020/OpenJs)
 
-- The Digital Speakeasy: Secure and Anonymous Access to Your Website
+- Design Systems Aren't Hard. But they are complex. And also hard.
 
 ## 2018
 
